@@ -4,3 +4,4 @@
 | 2  | [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/)                   | Medium       |
 | 3  | [682. Baseball Game](https://leetcode.com/problems/baseball-game/description/)                   | Easy       |
 | 4  | [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/description/)                   | Medium       |
+| 5  | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)                   | Easy       |

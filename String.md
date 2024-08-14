@@ -8,3 +8,4 @@
 | 4  | [2283. Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/description/)                   | Easy       |
 | 5  | [415. Add Strings](https://leetcode.com/problems/add-strings/description/)                   | Easy       |
 | 6  | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)                   | Easy       |
+| 7  | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)                   | Easy       |

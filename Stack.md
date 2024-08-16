@@ -7,3 +7,5 @@
 | 3  | [682. Baseball Game](https://leetcode.com/problems/baseball-game/description/)                   | Easy       |
 | 4  | [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/description/)                   | Medium       |
 | 5  | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)                   | Easy       |
+| 6  | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/)                   | Easy       |
+

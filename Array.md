@@ -11,4 +11,5 @@
 | 6  | [2798. Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/description/)   | Easy       |
 | 7  | [3024. Type of Triangle](https://leetcode.com/problems/type-of-triangle/description/)   | Easy       |
 | 8  | [268. Missing Number](https://leetcode.com/problems/missing-number/description/)   | Easy       |
+| 8  | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/)   | Easy       |
 

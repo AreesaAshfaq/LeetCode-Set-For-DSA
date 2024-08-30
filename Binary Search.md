@@ -8,3 +8,5 @@
 | 4  | [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)                   | Easy       |
 | 5  | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/)                   | Easy       |
 | 6  | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)                   | Easy       |
+| 7  | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)                   | Easy       |
+

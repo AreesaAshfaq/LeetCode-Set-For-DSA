@@ -12,3 +12,5 @@
 | 8  | [2586. Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/description/)                   | Easy       |
 | 9  | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)                   | Easy       |
 | 10  | [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)                   | Easy       |
+| 11  | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/description/)                   | Easy       |
+

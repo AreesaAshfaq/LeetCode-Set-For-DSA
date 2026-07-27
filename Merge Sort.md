@@ -1,5 +1,5 @@
 
-## MergeSort
+## Merge Sort
 
 
 | No.  | Problem                                                                       | Difficulty |
